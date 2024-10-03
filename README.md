@@ -1,4 +1,4 @@
 # GitSample
 『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクト
-  
-* michikazuokaiが追加
+
+* この行を修正 20241001
